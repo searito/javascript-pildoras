@@ -1,0 +1,1 @@
+alert('Texto Cargado Desde Fuente Externa');
